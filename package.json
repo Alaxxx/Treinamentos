@@ -2,6 +2,7 @@
   "name": "api-vercel",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
     "mongodb": "^6.17.0"
